@@ -1,4 +1,4 @@
-# Product Returnability Predictor
+# Product Returnability Prediction System
 Check it out now !!  https://clothing-returnability-issue.streamlit.app/
    
 A Streamlit app that estimates the likelihood a product order will be returned, based on customer, product, and seller-side inputs. Built with Python, NumPy, and Matplotlib.
